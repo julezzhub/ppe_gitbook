@@ -1,6 +1,6 @@
 ## Oxford PPE Finals Revision Guide
 
-The Incomplete Guide to PPE Finals was born out of my friend Felix's and my own Finals experience. We were frustrated that there was no comprehensive, structured knowledge base, despite ~200 students revising the same topics every year, so we set out to organize our collective notes and publish them properly. 
+The Incomplete Guide to PPE Finals was born out of my friend Felix and my own Finals experience. We were frustrated that there was no comprehensive, structured knowledge base, despite ~200 students revising the same topics every year, so we set out to organize our collective notes and publish them properly. 
 
 With around 900 pages, the guide covers 50+ modules across 13 subjects with detailed summaries. It's grounded in a couple of hundred of the academic papers from the reading lists. We've included an exemplary revision timetable as well as practical tips and strategies on how to revise effectively, manage your time and approach exam questions. Initially set up as a gitbook, it is currently hosted at https://rebrand.ly/finals.
 
